@@ -19,9 +19,35 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a71a351d-a8b3-4ddd-9362-f936bb6885bc" name="Default Changelist" comment="Migrated MERN Stack">
-      <change beforePath="$PROJECT_DIR$/BuildingFiles/client/building_systems/.gitignore" beforeDir="false" />
+    <list default="true" id="a71a351d-a8b3-4ddd-9362-f936bb6885bc" name="Default Changelist" comment="Migrated MERN Stack with client">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BuildingFiles/client/building_systems/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BuildingFiles/client/building_systems/.idea/aws.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BuildingFiles/client/building_systems/.idea/building_systems.iml" beforeDir="false" afterPath="$PROJECT_DIR$/BuildingFiles/client/building_systems/.idea/building_systems.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BuildingFiles/client/building_systems/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BuildingFiles/client/building_systems/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BuildingFiles/client/building_systems/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BuildingFiles/client/building_systems/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BuildingFiles/client/building_systems/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BuildingFiles/client/building_systems/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BuildingFiles/client/building_systems/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BuildingFiles/client/building_systems/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BuildingFiles/client/building_systems/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BuildingFiles/client/building_systems/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BuildingFiles/client/building_systems/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BuildingFiles/client/building_systems/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BuildingFiles/client/building_systems/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/BuildingFiles/client/building_systems/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BuildingFiles/client/building_systems/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/BuildingFiles/client/building_systems/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BuildingFiles/client/building_systems/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/BuildingFiles/client/building_systems/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BuildingFiles/client/building_systems/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/BuildingFiles/client/building_systems/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BuildingFiles/client/building_systems/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/BuildingFiles/client/building_systems/public/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BuildingFiles/client/building_systems/public/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BuildingFiles/client/building_systems/public/robots.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BuildingFiles/client/building_systems/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/BuildingFiles/client/building_systems/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BuildingFiles/client/building_systems/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/BuildingFiles/client/building_systems/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BuildingFiles/client/building_systems/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/BuildingFiles/client/building_systems/src/App.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BuildingFiles/client/building_systems/src/components/BookCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/BuildingFiles/client/building_systems/src/components/BookCard.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BuildingFiles/client/building_systems/src/components/CreateBook.js" beforeDir="false" afterPath="$PROJECT_DIR$/BuildingFiles/client/building_systems/src/components/CreateBook.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BuildingFiles/client/building_systems/src/components/ShowBookDetails.js" beforeDir="false" afterPath="$PROJECT_DIR$/BuildingFiles/client/building_systems/src/components/ShowBookDetails.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BuildingFiles/client/building_systems/src/components/ShowBookList.js" beforeDir="false" afterPath="$PROJECT_DIR$/BuildingFiles/client/building_systems/src/components/ShowBookList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BuildingFiles/client/building_systems/src/components/UpdateBookInfo.js" beforeDir="false" afterPath="$PROJECT_DIR$/BuildingFiles/client/building_systems/src/components/UpdateBookInfo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BuildingFiles/client/building_systems/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/BuildingFiles/client/building_systems/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BuildingFiles/client/building_systems/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/BuildingFiles/client/building_systems/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BuildingFiles/client/building_systems/src/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/BuildingFiles/client/building_systems/src/logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BuildingFiles/client/building_systems/src/reportWebVitals.js" beforeDir="false" afterPath="$PROJECT_DIR$/BuildingFiles/client/building_systems/src/reportWebVitals.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BuildingFiles/client/building_systems/src/setupTests.js" beforeDir="false" afterPath="$PROJECT_DIR$/BuildingFiles/client/building_systems/src/setupTests.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +56,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/BuildingFiles/client/building_systems" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="21YBiNWVuoNS2q1t0S0iBC8MBOv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -59,7 +86,7 @@
       <option name="presentableId" value="Default" />
       <updated>1638108267619</updated>
       <workItem from="1638108269624" duration="637000" />
-      <workItem from="1638109625255" duration="526000" />
+      <workItem from="1638109625255" duration="1326000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit Test">
       <created>1638109068492</created>
@@ -89,7 +116,28 @@
       <option name="project" value="LOCAL" />
       <updated>1638110034807</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Migrated MERN Stack">
+      <created>1638110176613</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1638110176613</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Migrated MERN Stackk">
+      <created>1638110465251</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1638110465251</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Migrated MERN Stack with client">
+      <created>1638110719191</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1638110719191</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,16 +158,18 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit Test" />
     <MESSAGE value="Migrated MERN Stack" />
-    <option name="LAST_COMMIT_MESSAGE" value="Migrated MERN Stack" />
+    <MESSAGE value="Migrated MERN Stackk" />
+    <MESSAGE value="Migrated MERN Stack with client" />
+    <option name="LAST_COMMIT_MESSAGE" value="Migrated MERN Stack with client" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="440" y="262" key="Vcs.Push.Dialog.v2" timestamp="1638110045529">
+    <state x="440" y="262" key="Vcs.Push.Dialog.v2" timestamp="1638110779258">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="440" y="262" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1638110045529" />
-    <state x="612" y="263" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1638109898581">
+    <state x="440" y="262" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1638110779258" />
+    <state x="612" y="263" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1638110330760">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="612" y="263" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1638109898581" />
+    <state x="612" y="263" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1638110330760" />
   </component>
 </project>
