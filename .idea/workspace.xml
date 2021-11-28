@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a71a351d-a8b3-4ddd-9362-f936bb6885bc" name="Default Changelist" comment="First Commit Test" />
+    <list default="true" id="a71a351d-a8b3-4ddd-9362-f936bb6885bc" name="Default Changelist" comment="Migrated MERN Stack" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +29,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="21YBiNWVuoNS2q1t0S0iBC8MBOv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -55,6 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1638108267619</updated>
       <workItem from="1638108269624" duration="637000" />
+      <workItem from="1638109625255" duration="370000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit Test">
       <created>1638109068492</created>
@@ -63,7 +65,21 @@
       <option name="project" value="LOCAL" />
       <updated>1638109068492</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Migrated MERN Stack">
+      <created>1638109681717</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1638109681717</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Migrated MERN Stack">
+      <created>1638109964829</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1638109964829</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -79,15 +95,21 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit Test" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Commit Test" />
+    <MESSAGE value="Migrated MERN Stack" />
+    <option name="LAST_COMMIT_MESSAGE" value="Migrated MERN Stack" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="440" y="262" key="Vcs.Push.Dialog.v2" timestamp="1638109076706">
+    <state x="440" y="262" key="Vcs.Push.Dialog.v2" timestamp="1638109987211">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="440" y="262" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1638109076706" />
+    <state x="440" y="262" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1638109987211" />
+    <state x="612" y="263" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1638109898581">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="612" y="263" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1638109898581" />
   </component>
 </project>
